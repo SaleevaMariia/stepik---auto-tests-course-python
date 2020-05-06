@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2864d5d9-ba49-47b0-9b4d-fdc57cd50d78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/lesson3_step13_utest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/lesson_6_9/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/lesson_6_9/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/lesson_6_9/test_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/new_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_fixture_autouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_lesson6_step3_paramentr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_task_run_1_lesson3_step6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/test_xfail_lesson3_step5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bOUvVbCcP0ntj35Gmd31q7Sc2h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests for lesson3_step13_unittest.TestFirst" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="stepik---auto-tests-course-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;lesson3_step13_unittest.TestFirst&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for lesson3_step13_unittest.TestFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2864d5d9-ba49-47b0-9b4d-fdc57cd50d78" name="Default Changelist" comment="" />
+      <created>1588502863653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588502863653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588689070749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588689070749" />
+    <state width="1345" height="260" key="GridCell.Tab.0.bottom" timestamp="1588701357503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="260" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588701357503" />
+    <state width="1345" height="260" key="GridCell.Tab.0.center" timestamp="1588701357503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="260" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588701357503" />
+    <state width="1345" height="260" key="GridCell.Tab.0.left" timestamp="1588701357502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="260" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588701357502" />
+    <state width="1345" height="260" key="GridCell.Tab.0.right" timestamp="1588701357503">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="260" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588701357503" />
+  </component>
+</project>
